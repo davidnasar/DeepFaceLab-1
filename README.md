@@ -9,4 +9,4 @@ DeepFaceLab最新版，完整版，原版汉化版。
 
 
 # 更多内容
-参考 DeepFakes中文站www.deepfakescn.com
+参考 DeepFakes中文网 www.deepfakescn.com
